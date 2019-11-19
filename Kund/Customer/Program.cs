@@ -4,6 +4,7 @@ using Console = Colorful.Console;
 
 namespace Customer
 {
+    // Hej
     class Program
     {
         static void Main(string[] args)
