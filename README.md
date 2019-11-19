@@ -1,6 +1,6 @@
 Vårat projekt arbete
 ==========================
-* boll
-* hej
+* Kundterminalen
+* Bagarterminalen
+* Kassörskaterminalen
 
---- test
