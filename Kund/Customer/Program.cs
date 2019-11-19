@@ -5,7 +5,7 @@ using Console = Colorful.Console;
 namespace Customer
 {
     // Hej
-    // hej hej hallå hallå
+    // hej hej hallå hej hej hallå hej
     
     class Program
     {
